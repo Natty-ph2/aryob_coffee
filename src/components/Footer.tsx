@@ -38,10 +38,10 @@ const Footer = () => {
      </li>
     ))}
    </ul>
-   <a href="/" className="flex flex-col items-center">
+   <Link href="/" className="flex flex-col items-center">
     <span>Hosana</span>
     <span>Ethiopia2</span>
-   </a>
+   </Link>
   </footer>
  )
 }
