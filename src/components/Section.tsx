@@ -12,7 +12,7 @@ const Section = ({
  children
 }: SectionProps) => {
  return (
-  <section className="mx-auto px-4 py-10 max-w-[1000px]">
+  <section id={id} className="mx-auto px-4 py-10 max-w-[1000px]">
     
    {title && <h2 className="text-3xl mb-4">{title}</h2>}
    <div className="flex flex-wrap gap-4">

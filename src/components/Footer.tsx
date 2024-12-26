@@ -27,14 +27,14 @@ const Footer = () => {
    <ul className="flex items-center justify-center gap-5">
     {links.map((item, i) => (
      <li key={i}>
-      <a
+      <Link
        href={item.href}
        target="_blank"
        rel="noreferrer"
        className="btn btn-circle btn-outline"
       >
        {item.icon}
-      </a>
+      </Link>
      </li>
     ))}
    </ul>

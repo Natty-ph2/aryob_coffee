@@ -9,11 +9,10 @@ interface CardProps {
 }
 
 const Card = ({
+  
   image,
   title,
   price,
-  description,
-  ingredients
 }: CardProps) => {
   return (
     <div className="flex flex-col gap-4 grow basis-96 lg:max-w-[476px] border border-slate-500 rounded-lg hover:bg-gray-800  duration-100 p-4 cursor-pointer group">
