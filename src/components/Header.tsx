@@ -19,15 +19,12 @@ const Header = () => {
      <strong className="font-semibold">of</strong> Hope
     </figcaption>
    </figure>
-   <div className="flex flex-col gap-4 max-w-[300px] mb-auto">
-    {/* <a
-     href="https://lil-baghdad.square.site/s/order?location=11ecbc4e2927f6a69d9aac1f6bbbcc9c&customer_seat_id=11ef0e78f85e40fa879a7a73c86d77ee#most-popular"
-     target="_blank"
-     rel="noreferrer"
-     className="btn btn-outline rounded-full w-[300px]"
-    >
-     Order Online
-    </a> */}
+   <div className="flex flex-col gap-4 max-w-[600px] mb-auto text-white text-sm">
+    <p>
+        <strong className="font-semibold">Aryob</strong> is about a story of little beams of light, passion,
+        struggles and most importantly hopes of shinning in the dark together, eagerly urging to the beauty of the
+        future, to hope, to see beyond the dark.
+    </p>
    
    </div>
    <div className="flex flex-col items-center">
