@@ -86,13 +86,13 @@ export const hotCoffee = [
         "id": 6
       },
       {
-        "title": "Flat White with coffee- ፍላት ወይት",
+        "title": "Flat White with coffee- ፍላት ዋይት ከቡና ጋር",
         "price":"35 ETB",
         "image": flat,
         "id": 7
       },
       {
-        "title": "Carame Macchiato- ካሬሜል ማኪያቶ",
+        "title": "Carame Macchiato- ካራሜል ማኪያቶ",
         "price":"35 ETB",
         "image": carmelmacchiato,
         "id": 8
@@ -121,7 +121,7 @@ export const icedCoffee = [
         "id": 1
       },
       {
-        "title": "Iced Carmel Latte- አይስድ ካሬሜል ላቴ",
+        "title": "Iced Carmel Latte- አይስድ ካራሜል ላቴ",
         "price":"100 ETB",
         
         "image": icedcarmellatte,
@@ -135,7 +135,7 @@ export const icedCoffee = [
         "id": 3
       },
       {
-        "title": "Iced Strawberry Latte- አይስድ ስትራብሪ ላቴ",
+        "title": "Iced Strawberry Latte- አይስድ ስትሮቤ ላቴ",
         "price":"100 ETB",
         
         "image": icedstrawberrylattee,
@@ -212,7 +212,7 @@ export const teaDrinks = [
     },
 
     {
-      "title": "Takeaway- ታክዋይ",
+      "title": "Takeaway- ቴክአዌይ",
       "price":"+10 ETB",
       
       "image": takeway,
