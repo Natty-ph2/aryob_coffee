@@ -4,9 +4,19 @@ import Separator from "./Separator"
 import { icedCoffee } from "@/constants"
 
 
+
+import { StaticImageData } from 'next/image';
+
+
+
+
+
+
+
+
 const Icedcoffee = () => {
  return (
-  <Section title="Icedcoffee" id="icedCoffee">
+  <Section title="Iced Coffee -የቀዘቀዘ ቡና" id="icedCoffee">
    {icedCoffee.map((item, i) => (
     <Card
     key={i}

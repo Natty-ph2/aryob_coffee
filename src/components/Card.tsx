@@ -1,11 +1,12 @@
-import Image from "next/image"
+import { StaticImageData } from 'next/image';
+import Image from 'next/image';
 
 interface CardProps {
-  image: string
-  title: string
-  price: string
-  description: string
-  ingredients: string[]
+  image: string | StaticImageData; // Accept both string and StaticImageData
+  title: string;
+  price: string;
+  description: string;
+  ingredients: string[];
 }
 
 const Card = ({

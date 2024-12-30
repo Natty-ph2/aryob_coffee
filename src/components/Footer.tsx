@@ -7,9 +7,9 @@ import { FaPhoneAlt } from "react-icons/fa";
 
 const links = [
  { href: "https://www.facebook.com", icon: <FaFacebook /> },
- { href: "https://www.instagram.com", icon: <FaInstagramSquare /> },
- { href: "https://www.google.com", icon: <FaTelegram /> },
- { href: "tel:(123)-456-7890", icon: <FaPhoneAlt /> },
+ { href: "https://www.instagram.com/aryob_coffee?igsh=MWh1Znh3cG00ZXF4bw==", icon: <FaInstagramSquare /> },
+ { href: "https://t.me/YoniET", icon: <FaTelegram /> },
+ { href: "tel:+251 92 534 5675", icon: <FaPhoneAlt /> },
 ]
 
 const Footer = () => {
@@ -40,7 +40,7 @@ const Footer = () => {
    </ul>
    <Link href="/" className="flex flex-col items-center">
     <span>Hosana</span>
-    <span>Ethiopia2</span>
+    <span>Ethiopia</span>
    </Link>
   </footer>
  )
