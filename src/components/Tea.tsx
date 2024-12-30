@@ -5,7 +5,6 @@ import { teaDrinks } from "@/constants"
 
 
 
-import { StaticImageData } from 'next/image';
 
 
 
