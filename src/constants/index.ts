@@ -18,7 +18,6 @@ import specialkeshir from '../../public/aryob/specialKeshir.jpg'
 import specialtea from '../../public/aryob/specialTea.jpg'
 import sprez from '../../public/aryob/sprez.jpeg'
 import takeway from '../../public/aryob/takeaway.jpg'
-import tea from '../../public/aryob/tea.jpeg'
 import v6 from '../../public/aryob/v6.jpeg'
 import zeb from '../../public/aryob/zeb.jpeg'
 
